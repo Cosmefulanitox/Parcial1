@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1684280746 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1684359900 c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\agente.h
+	<string>
+
+1684280862 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1684280914 c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1683846750 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1684279156 c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\fecha.h
+	<string>
+
+1684279694 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1684280324 c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1684279680 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1684278570 c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1684279772 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1684278992 c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1685832461 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\parcial.cpp
+	"Parcial.h"
+
+1685656231 c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\parcial.h
+	<iostream>
+	"MultaArchivo.h"
+	"Multa.h"
+	"Agente.h"
+	"AgenteArchivo.h"
+
+1685661914 source:c:\users\pc\desktop\programacion 2023\primer parciallabo\agenciatransito\main.cpp
+	<iostream>
+	"AgenteArchivo.h"
+	"MultaArchivo.h"
+	"Parcial.h"
+
